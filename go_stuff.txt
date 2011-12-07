@@ -1,0 +1,8 @@
+sfgDatabase has pretty easily accessed files, I think.  Save format:
+http://sgfdatabase.com/save.php?id=52301
+
+I could probably just do a for loop with a try.
+
+http://www.go4go.net/v2/modules/collection/record_request.php?id=24740
+http://www.go4go.net/v2/modules/collection/record_request.php?id=24737
+http://www.go4go.net/v2/modules/collection/record_request.php?id=24724
